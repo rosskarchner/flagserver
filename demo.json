@@ -1,0 +1,8 @@
+{
+    flux_capacitor: true,
+    new_feature: false,
+    
+
+    does_json_allow_trailing_commas: false
+}
+
